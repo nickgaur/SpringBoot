@@ -1,13 +1,13 @@
-package com.in28minutes.learn_spring_framework;
+package com.in28minutes.learn_spring_boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnSpringFrameworkApplication {
+public class LearnSpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnSpringFrameworkApplication.class, args);
+		SpringApplication.run(LearnSpringBootApplication.class, args);
 	}
 
 }
